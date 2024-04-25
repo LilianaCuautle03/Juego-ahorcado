@@ -1,10 +1,10 @@
 # Juego-ahocado
-Juego ahorcado (Alura - Changelle-Oracle-One 02)
+Juego ahorcado (Alura Latm-Oracle One)
 
-Ver: https://katherinedominguez30.github.io/Juego-ahocado/
+Ver: https://github.com/LilianaCuautle03/Juego-ahorcado.git
 
 Aplicación Web que permite jugar el juego ahocado adivinando palabras.
 
-Pagina desarrollada con tecnología HTML, CSS y JavaScript, cuya función es adivinar la palabra oculta para que el muñeco no sea ahorcado.
+Pagina desarrollada con tecnología HTML, CSS y JavaScript, con la finalidad de adivinar la palabra oculta para que el muñeco no sea ahorcado.
 
-La aplicación es parte del segundo Challenge, propuesto por Alura Latam para las capacitaciones presentes en el programa elaborado por Oracle Next Education (ONE).
+La aplicación es parte de las capacitaciones del programa elaborado por Oracle Next Education (ONE) y Alura Latam
